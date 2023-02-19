@@ -2,5 +2,5 @@
 
 ## Simple Hover text effect.
 
-![ScreenShot1](/assets/hover.png)
-![ScreenShot2](/assets/complete.png)
+<img src="/assets/hover.png" width="100" height="100" />
+<img src="/assets/complete.png" width="100" height="100" />
