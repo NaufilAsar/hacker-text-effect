@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+h1 {
+  color: white;
+  font-size: 4rem;
+  font-family: "Space Mono", monospace;
+  text-transform: uppercase;
+  padding: 5rem;
+  border: 1px solid white;
+  border-radius: 8px;
+}
+
+h1:hover {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(0, 0, 0, 0.5),
+    rgba(255, 247, 247, 0.23)
+  );
+}
