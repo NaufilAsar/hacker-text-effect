@@ -17,9 +17,8 @@ window.onload = () => {
 
       if (iteration >= 10) {
         clearInterval(interval);
-        console.log(iteration);
       }
       iteration += 1;
-    }, 30);
+    }, 50);
   };
 };
